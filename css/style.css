@@ -1121,7 +1121,7 @@ p {
     display: block;
     position: fixed;
     left: 0;
-    top: -120%;
+    top: -150%;
     width: 40%;
     min-height: 100vh;
     padding-top: 70px;
